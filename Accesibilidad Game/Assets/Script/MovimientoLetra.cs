@@ -10,6 +10,8 @@ public class MovimientoLetra : MonoBehaviour
     public Rigidbody2D rb; //Agarra el componente del Rigibody del objeto
     public float fuerzaMovimiento; //Fuerza de movimiento
 
+
+
     public void pulsarIzquierda()
     {
         izquierda = true;
